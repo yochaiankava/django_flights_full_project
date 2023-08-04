@@ -27,8 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'django-flights-full-project.onrender.com']
 
-ALLOWED_HOSTS = []
-
 
 # Application definition
 
